@@ -1,9 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using TesteArgo.Models;
+
 
 namespace TesteArgo
 {
@@ -25,19 +22,24 @@ namespace TesteArgo
     /// </summary>
     public class teste4
     {
+
         /// <summary>
         /// 
         /// </summary>
         /// <param name="filtro"></param>
         /// <returns></returns>
+        DestinoDAL destinoDAL = new DestinoDAL();
+
         public List<Destino> ListarDestino()
         {
-            return null;
+              
+            return destinoDAL.GetDestinos();
         }
 
         public Destino buscarPorId(int id)
         {
-            return null;
+            return destinoDAL.GetDestino(id);
         }
+
     }
 }

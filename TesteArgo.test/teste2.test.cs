@@ -1,14 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System;
-using Microsoft.VisualStudio.TestTools.UnitTesting;
+﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace TesteArgo.test
 {
     [TestClass]
     public class teste2test
     {
+        
         teste2 classeTeste = new teste2();
 
         [TestMethod]

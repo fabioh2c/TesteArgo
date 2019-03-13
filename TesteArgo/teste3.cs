@@ -1,16 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 using TesteArgo.Models;
+
 
 namespace TesteArgo
 {
     public class teste3
     {
-        ///www.omdbapi.com/
-        const string ApiKey = "18693fd6";
+        
+        ConexaoAPI conexaoapi = new ConexaoAPI();
 
         /// <summary>
         /// By Search
@@ -20,7 +17,8 @@ namespace TesteArgo
         /// <returns></returns>
         public List<Filme> ListarFilmes(string filtro)
         {
-            return null;
+
+            return conexaoapi.GetFilmes("?s=" + filtro);
         }
 
         /// <summary>
@@ -31,7 +29,8 @@ namespace TesteArgo
         /// <returns></returns>
         public Filme ListarPorId(string id)
         {
-            return null;
+            return conexaoapi.GetFilme("?i=" + id);
         }
-    }
+
+    }  
 }

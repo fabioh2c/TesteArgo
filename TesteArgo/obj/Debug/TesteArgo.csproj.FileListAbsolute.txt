@@ -12,3 +12,14 @@ C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteAr
 C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo\obj\Debug\TesteArgo.csproj.CoreCompileInputs.cache
 C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo\obj\Debug\TesteArgo.exe
 C:\Users\lucas.roselli\Documents\Visual Studio 2017\TesteArgo1\TesteArgo\TesteArgo\obj\Debug\TesteArgo.pdb
+C:\DEV\TesteArgoNovo\TesteArgo\bin\Debug\TesteArgo.exe.config
+C:\DEV\TesteArgoNovo\TesteArgo\bin\Debug\TesteArgo.exe
+C:\DEV\TesteArgoNovo\TesteArgo\bin\Debug\TesteArgo.pdb
+C:\DEV\TesteArgoNovo\TesteArgo\obj\Debug\TesteArgo.csprojAssemblyReference.cache
+C:\DEV\TesteArgoNovo\TesteArgo\obj\Debug\TesteArgo.csproj.CoreCompileInputs.cache
+C:\DEV\TesteArgoNovo\TesteArgo\obj\Debug\TesteArgo.exe
+C:\DEV\TesteArgoNovo\TesteArgo\obj\Debug\TesteArgo.pdb
+C:\DEV\TesteArgoNovo\TesteArgo\bin\Debug\Newtonsoft.Json.dll
+C:\DEV\TesteArgoNovo\TesteArgo\bin\Debug\Newtonsoft.Json.xml
+C:\DEV\TesteArgoNovo\TesteArgo\obj\Debug\TesteArgo.csproj.CopyComplete
+C:\DEV\TesteArgoNovo\TesteArgo\bin\Debug\Newtonsoft.Json.pdb
